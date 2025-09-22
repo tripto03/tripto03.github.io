@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/lecturer_buet
 venue: "Computer Science and Engineering,  Bangladesh University of Engineering and Technology (BUET)"
-date: 2018-2022
+date: 2018-01-01
 location: "Dhaka, Bangladesh"
 ---
 
