@@ -23,9 +23,9 @@ repository               : "https://github.com/tripto03/tripto03.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Nafis"
+  name             : "Nafis Irtiza Tripto"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Student | NSF LinDiv Fellow | LLM Researcher | Penn State"
   location         : "State College, Pennsylvania"
   employer         : "Pennsylvania State University"
   uri              : # URL
@@ -47,7 +47,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/tripto03"
+  github           : "tripto03"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : https://www.linkedin.com/in/nafis-irtiza-tripto/
+  linkedin         : nafis-irtiza-tripto
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
